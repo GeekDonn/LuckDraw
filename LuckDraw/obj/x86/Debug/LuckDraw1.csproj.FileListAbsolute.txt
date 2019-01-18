@@ -1,0 +1,15 @@
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\obj\x86\Debug\LuckDraw1.csprojResolveAssemblyReference.cache
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\obj\x86\Debug\LuckDraw1.csproj.GenerateResource.Cache
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.dll
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\CefSharp.dll
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.dll
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.xml
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\CefSharp.xml
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.xml
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\work\CSharp\LuckDraw\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
